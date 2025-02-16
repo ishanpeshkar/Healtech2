@@ -1,3 +1,5 @@
+# Only difference between the 2 of the healtech projects is that is the previous project we didnot have seprate pages for each disease prediction. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
